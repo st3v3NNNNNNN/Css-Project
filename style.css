@@ -91,13 +91,13 @@ button {
     background-color: #3882f6;
     border-radius: 5px;
     color: white;
-    padding: 3px 15px;
+    padding: 5px 17px;
     font-weight: 800;
     border-width: 0px;
 }
 
 
-/* Moving on to nex section */
+/* Moving on to information section */
 
 
 .info {
@@ -165,3 +165,42 @@ h2 {
 /* MOving to Call to action sector*/
 
 
+.cta {
+    padding: 70px 120px;
+}
+
+.cta-box {
+    background-color: #3882f6;
+    padding: 30px 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cta-text {
+    color: white;
+}
+
+.btn-one {
+    background-color: #3882f6;
+    border-radius: 5px;
+    color: white;
+    padding: 5px 17px;
+    font-weight: 800;
+    border: 2px solid white;
+}
+
+
+/* Moving on to the copyright section*/
+
+footer {
+    background-color: #1F2937;
+    padding: 40px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer p {
+    color: white;
+}
